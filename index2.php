@@ -9,5 +9,11 @@
 <body>
     <?php echo "Hello!" ?>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+    
+    <ul>
+        <li>Hallo</li>
+        <li>Dpain</li>
+        <li>Dani</li>
+    </ul>
 </body>
 </html>
