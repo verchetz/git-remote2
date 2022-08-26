@@ -8,5 +8,6 @@
 </head>
 <body>
     <?php echo "Hello!" ?>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
 </body>
 </html>
